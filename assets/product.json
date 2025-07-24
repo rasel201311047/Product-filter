@@ -1,0 +1,122 @@
+[
+  {
+    "id": "prod001",
+    "password": "aB12#xYz",
+    "price": 149.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "prod002",
+    "password": "M9u@t8Lp",
+    "price": 89.5,
+    "category": "Home"
+  },
+  {
+    "id": "prod003",
+    "password": "Zz34*LmN",
+    "price": 23.75,
+    "category": "Books"
+  },
+  {
+    "id": "prod004",
+    "password": "Xr7!QaW2",
+    "price": 349.0,
+    "category": "Computers"
+  },
+  {
+    "id": "prod005",
+    "password": "Pl90%ReT",
+    "price": 59.99,
+    "category": "Fashion"
+  },
+  {
+    "id": "prod006",
+    "password": "qWe@123#",
+    "price": 105.0,
+    "category": "Automotive"
+  },
+  {
+    "id": "prod007",
+    "password": "Ty88!zKu",
+    "price": 499.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "prod008",
+    "password": "Lm23*YtQ",
+    "price": 16.45,
+    "category": "Toys"
+  },
+  {
+    "id": "prod009",
+    "password": "Xx!78@pL",
+    "price": 75.9,
+    "category": "Home"
+  },
+  {
+    "id": "prod010",
+    "password": "bN12#UiO",
+    "price": 199.0,
+    "category": "Appliances"
+  },
+  {
+    "id": "prod011",
+    "password": "tRe$987Q",
+    "price": 38.5,
+    "category": "Books"
+  },
+  {
+    "id": "prod012",
+    "password": "Wp7@xMk2",
+    "price": 260.99,
+    "category": "Computers"
+  },
+  {
+    "id": "prod013",
+    "password": "Zl12@BcX",
+    "price": 110.75,
+    "category": "Garden"
+  },
+  {
+    "id": "prod014",
+    "password": "Vg8*UpY1",
+    "price": 899.0,
+    "category": "Electronics"
+  },
+  {
+    "id": "prod015",
+    "password": "Mi78#rW9",
+    "price": 14.99,
+    "category": "Toys"
+  },
+  {
+    "id": "prod016",
+    "password": "Nn4@Lp03",
+    "price": 44.5,
+    "category": "Beauty"
+  },
+  {
+    "id": "prod017",
+    "password": "Fu67!kQe",
+    "price": 120.0,
+    "category": "Fashion"
+  },
+  {
+    "id": "prod018",
+    "password": "Dg3%MeR1",
+    "price": 209.95,
+    "category": "Sports"
+  },
+  {
+    "id": "prod019",
+    "password": "Qq88&Jz2",
+    "price": 399.0,
+    "category": "Electronics"
+  },
+  {
+    "id": "prod020",
+    "password": "As#56QwE",
+    "price": 70.0,
+    "category": "Books"
+  }
+]
